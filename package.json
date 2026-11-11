@@ -1,0 +1,11 @@
+{
+  "name": "wx-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "微信小程序开发工具（MCP）：封装微信开发者工具 CLI 与 HBuilderX CLI，零依赖",
+  "main": "server.mjs",
+  "scripts": {
+    "smoke": "node smoke.mjs"
+  }
+}
